@@ -3,13 +3,11 @@
 A small api using Nestjs that I made as a POC for my TCC
 It has some features like
 
-```bash
-Validation with joi
-Simple JWT Authentication
-Security middlewares with helmet
-Response compression with compression
-ORM with prisma
-```
+- Validation with joi
+- Simple JWT Authentication
+- Security middlewares with helmet
+- Response compression with compression
+- ORM with prisma
 
 ## Installation
 
