@@ -8,6 +8,8 @@ It has some features like
 - Security middlewares with helmet
 - Response compression with compression
 - ORM with prisma
+- Api docs with swagger
+- Guards, decorators, pipes and more!
 
 ## Installation
 
